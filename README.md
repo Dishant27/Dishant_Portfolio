@@ -10,6 +10,6 @@ In this project, we perform descriptive as well as predictive distribution of so
 * The need of manual based selection system is completely reduced in this method.
 
 
-![](https://github.com/Dishant27/Dishant_Portfolio/blob/master/images/Pot_Ovr.png)
+![](/images/Pot_Ovr.png)
 
-![](https://github.com/Dishant27/Dishant_Portfolio/blob/master/images/Age_potential.png)
+![](/images/Age_potential.png)

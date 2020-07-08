@@ -11,3 +11,5 @@ In this project, we perform descriptive as well as predictive distribution of so
 
 
 ![](https://github.com/Dishant27/Dishant_Portfolio/blob/master/images/Pot_Ovr.png)
+
+![](https://github.com/Dishant27/Dishant_Portfolio/blob/master/images/Age_potential.png)

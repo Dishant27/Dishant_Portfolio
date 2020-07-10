@@ -1,7 +1,7 @@
 # Dishant_Portfolio
 Example Data Science portfolio
 
-# Project 1: Football Player Analysis: Project Overview
+# [Project 1: Football Player Analysis: Project Overview](https://github.com/Dishant27/Football_Analysis)
 In this project, we perform descriptive as well as predictive distribution of soccer matches and player performances. 
 
 * Selectors can choose the best players according to their selection parameters and team budget. 

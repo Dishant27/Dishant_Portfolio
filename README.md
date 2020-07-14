@@ -15,7 +15,7 @@ In this project, I performed a descriptive as well as predictive distribution of
 ![](/images/Age_potential.png)
 
 
-# [Project 2: Data Science Salary Estimator: Project Overview](https://github.com/Dishant27/DS_proj)
+# [Project 2: Data Science Salary Est: Project Overview](https://github.com/Dishant27/DS_proj)
 In this project, I scraped the Data Scientist's salary data from GLASSDOOR using framework selenium with extracted data around 15 
 including names, salaries, location, company, Annual_Turnover etc.
 

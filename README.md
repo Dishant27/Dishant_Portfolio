@@ -129,6 +129,30 @@ This portfolio showcases my proficiency in:
 - **Data Collection**: Web scraping, API integration
 - **Programming**: Python, object-oriented design
 
+## 💻 Technical Expertise
+
+### Languages & Frameworks
+- **Python**: Advanced proficiency with 5+ years experience
+- **SQL**: Expert in database queries and optimization
+- **R**: Working knowledge for statistical analysis
+- **JavaScript**: Basic proficiency for web visualization
+- **Flask/Django**: Web application development
+- **TensorFlow/PyTorch**: Deep learning model implementation
+
+### Data Engineering
+- **ETL Pipeline Design**: Automated data collection and transformation workflows
+- **Data Warehousing**: Schema design and optimization for analytical queries
+- **Database Systems**: MySQL, PostgreSQL, MongoDB
+- **Big Data Technologies**: Spark, Hadoop ecosystem
+- **API Development**: RESTful services for data access and model serving
+
+### Machine Learning Operations
+- **Model Versioning**: Tracking experiments and model iterations
+- **Automated Testing**: Validation frameworks for model performance
+- **CI/CD for ML**: Continuous integration and deployment pipelines
+- **Model Monitoring**: Drift detection and performance tracking
+- **Containerization**: Docker for reproducible environments
+
 ## 🔮 Future Projects
 
 I'm constantly working on new projects. Here are some areas I'm exploring for future work:

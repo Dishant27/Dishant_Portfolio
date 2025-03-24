@@ -1,4 +1,4 @@
-# 📊 Dishant Kumar - Data Science Portfolio
+# 📊 Dishant Kumar - Data Science & AI Portfolio with Focus on Cutting-Edge Technologies
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Portfolio-blue?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-green?style=for-the-badge)
